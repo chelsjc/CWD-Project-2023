@@ -1,0 +1,5 @@
+.card-image img:hover {
+    transform: translate(0, -5px); 
+    transition: transform 0.3s ease;
+}
+
